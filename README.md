@@ -1,1 +1,2 @@
-# cpp_ROS2_examples
+- Some basic dyamics of ROS2 Humble in C++
+- Includes servers, clients, publishers and subscribers 
